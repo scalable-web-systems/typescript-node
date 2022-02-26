@@ -15,7 +15,7 @@ This tutorial focuses on how to integrate typescript into a node project and dem
 
 
 ## Why Typescript?
-NodeJS has been an incredibly popular backend Javascript runtime environment since its emergence in 2011. However, it falls short of providing the developers with the rich strongly typed coding experience that they very much desire.
+NodeJS has been an incredibly popular backend Javascript runtime environment since its emergence in 2011. However, it falls short of providing the developers with the rich strongly typed coding experience that they covet.
 Wikipedia defines Typescript as:
 > TypeScript is a programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language
 
